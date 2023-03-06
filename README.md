@@ -12,7 +12,7 @@ y haz lo mismo con la carpeta "pdf-crud-fe".
 FUNCIONALIDADES <br>
 -Registro: La aplicacion contiene autenticación, guarda un correo y una contraseña encriptada en una base de datos No-SQL, valida que se ingrese un correo verdadero y 
 una contraseña. <br>
--Inicio de sesión: La aplicación permite iniciar sesión con un usuario previamente registrado, validando que el usuario exista en la base de datos y entregandole un token 
+-Inicio de sesión: La aplicación permite iniciar sesión con un usuario previamente registrado, validando que el usuario exista en la base de datos y entregandole un token, este usuario al entrar, encuentra los archivos previamente guardados en anteriores sesiones.
 de autenticación mientras hace uso de la app.
 ![image](https://user-images.githubusercontent.com/105444672/223033532-d1d997d4-f43a-403f-a3f7-9981dc89704b.png)
 -Guardado de un PDF(Create): Al entrar a la aplicación, se puede seleccionar el simbolo (+), para agregar un nuevo PDF a la lista, requeriendo seleccionar el archivo y 
