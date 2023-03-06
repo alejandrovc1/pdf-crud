@@ -4,7 +4,7 @@
       <v-icon icon="mdi-file-arrow-left-right-outline" />
       PDF CRUD
     </v-app-bar-title>
-    <v-btn class="ml-auto" color="purple" text @click="SignOut()">SIGN OUT</v-btn>
+    <v-btn class="ml-auto" color="blue" text @click="SignOut()">SIGN OUT</v-btn>
   </v-app-bar>
 </template>
 
