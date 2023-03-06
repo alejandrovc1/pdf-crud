@@ -9,7 +9,7 @@ y haz lo mismo con la carpeta "pdf-crud-fe".
 4. Realiza el comando "npm run dev" en cada una de las dos terminales que se abrieron anteriormente.
 5. Dirígete a tu navegador y entra a: localhost:4000.
 
-FUNCIONALIDADES
+FUNCIONALIDADES <br>
 -Registro: La aplicacion contiene autenticación, guarda un correo y una contraseña encriptada en una base de datos No-SQL, valida que se ingrese un correo verdadero y 
 una contraseña.
 -Inicio de sesión: La aplicación permite iniciar sesión con un usuario previamente registrado, validando que el usuario exista en la base de datos y entregandole un token 
