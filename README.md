@@ -19,8 +19,10 @@ de autenticación mientras hace uso de la app.
 un nombre a elección.
 ![image](https://user-images.githubusercontent.com/105444672/223033993-702692dd-e4cf-480b-b343-32d795a4a5dd.png)
 -Lectura de un PDF(Read): Luego de agregar el PDF a la lista, se puede visualizar en una pestaña aparte, todo el contenido del PDF, seleccionando el ícono que 
-aparece en la columna llamada "file".<br>
--Edición de un PDF(Update): Una vez guardado el pdf, podemos cambiarle el nombre y el archivo a ese registro que seleccionemos dandole click al ícono de lapiz de la columna edit.<br>
+aparece en la columna llamada "file".
+![image](https://user-images.githubusercontent.com/105444672/223037320-faabc7ac-c36a-498e-a0e0-d3b3be02c576.png)
+-Edición de un PDF(Update): Una vez guardado el pdf, podemos cambiarle el nombre y el archivo a ese registro que seleccionemos dandole click al ícono de lapiz de la columna edit.
+![image](https://user-images.githubusercontent.com/105444672/223037429-9fcf669d-16a9-4298-b50b-d93512d4fb18.png)
 -Borrado de un PDF(Delete: Una vez guardado el pdf, podemos eliminar el pdf que deseemos dandole click al ícono de bote de basura en la columna delete.<br>
 -Cerrado de sesión: Para cerrar nuestra sesión y que se elimine nuestro token de acceso para la ruta protegida(crud), damos al botón de la esquina superior derecha.<br>
  
