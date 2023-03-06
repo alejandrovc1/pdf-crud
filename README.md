@@ -6,8 +6,9 @@ INSTALACIÓN
 3. Situate en la carpeta "pdf-crud-be" y abre una nueva terminal, haz el comando "npm i", con el cual instalarás todas las dependencias, luego, abre otra nueva terminal 
 y haz lo mismo con la carpeta "pdf-crud-fe".
 ![image](https://user-images.githubusercontent.com/105444672/223030911-4bb9f9f2-c1c2-4479-984e-7a820ae76f21.png)
-4. Realiza el comando "npm run dev" en cada una de las dos terminales que se abrieron anteriormente.
-5. Dirígete a tu navegador y entra a: localhost:4000.
+4. Realiza el comando "npm run dev" en la carpeta "pdf-crud-be".
+![image](https://user-images.githubusercontent.com/105444672/223040073-bc138ef5-17d1-4c65-9417-e01500d3a6a5.png)
+5. Dirígete a tu navegador y entra a: localhost:4000, ahí estará la aplicación ejecutada.
 
 FUNCIONALIDADES <br>
 -Registro: La aplicacion contiene autenticación, guarda un correo y una contraseña encriptada en una base de datos No-SQL, valida que se ingrese un correo y una contraseña válida. <br>
